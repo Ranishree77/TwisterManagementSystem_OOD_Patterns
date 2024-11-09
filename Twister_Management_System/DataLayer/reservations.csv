@@ -1,0 +1,14 @@
+customer_name,reservation_date,email,assigned_twister,status,priority
+Bob Williams,2024-08-10,bob.williams@example.com,None,Waiting,1
+werw,2024-08-15,werw@example.com,Tom Brown,Confirmed,
+shd,2024-08-13,shd@example.com,None,Waiting,1
+ritu,2024-09-09,ritu@example.com,None,Waiting,1
+kairalli,2024-08-11,kairalli@example.com,Jane Smith,Confirmed,
+Siran,2024-02-07,siran@example.com,Ranuu,Confirmed,
+reeya,2024-08-13,reeya@example.com,None,Waiting,2
+Aarna,2024-09-01,aarna@example.com,Sumanth,Confirmed,
+Sofia,2024-08-09,sofia@example.com,Rani,Confirmed,
+Zina,2024-05-07,zina@example.com,,Waiting,1
+Charlie Brown,2024-08-15,charlie.brown@example.com,,Waiting,1
+Alice Johnson,2024-06-16,alice.johnson@example.com,joseph,Confirmed,
+Eve Harris,2024-08-15,eve.haris@example.com,,Waiting,2
